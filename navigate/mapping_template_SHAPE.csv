@@ -34,5 +34,4 @@ idx;Variable_SHAPE;Unit;r30m44;r30m44_unit;r30m44_factor;r30m44_spatial;internal
 29;Ocean|Carbonate Saturation|Calcite;-;Ocean|Carbonate Saturation|Calcite;-;;;;;Saturation state of calcite (Omega_C)
 30;Ocean|Carbonate Saturation|Aragonite;-;Ocean|Carbonate Saturation|Aragonite;-;;;;;Saturation state of aragonite (Omega_A)
 34;Political institutions|Equality before law and individual liberty;-;Political institutions|Equality before law and individual liberty;-;;;;;aggregated ‘Equality Before the Law and Individual Liberty' index (0-1) as defined by V-DEM
-;Disability-Adjusted Life Year|PM2_5;DALY/yr;Disability-Adjusted Life Year|PM2_5;DALY/yr;;;;;DALYS lost from air pollution
 ;Useful Energy|Transportation;GJ/cap/yr;UE|per capita|Transport;GJ/cap/yr;;;;;Useful energy per capita for transport.
