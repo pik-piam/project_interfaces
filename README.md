@@ -1,4 +1,7 @@
 # Project Interfaces
+
+**This repo is deprecated. Please use [piamInterfaces](https://github.com/pik-piam/piamInterfaces) instead.**
+
 Project specific interfaces to REMIND / MAgPIE.
 
 ## AR6
